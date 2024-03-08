@@ -1,0 +1,19 @@
+﻿body
+{
+
+    margin:0;
+    padding:0;
+    background-color:coral;
+
+}
+.animationtext{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    margin:0;
+    color:aliceblue;
+    font-size:40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:600;
+}
